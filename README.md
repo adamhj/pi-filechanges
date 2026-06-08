@@ -13,7 +13,7 @@ Tracks files changed (modified/created) by **pi** via the built-in `edit` and `w
 - Install from GitHub:
   - `pi install https://github.com/adamhj/pi-filechanges.git`
 - Or install with git source syntax:
-  - `pi install git:github.com/adamhj/pi-filechanges.git@main`
+  - `pi install git:github.com/adamhj/pi-filechanges@main`
 - Reload pi after install: `/reload`
 
 ## Features
